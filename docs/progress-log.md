@@ -1,0 +1,62 @@
+# Progress Log
+
+Companion to `docs/personal-growth-reading-guide.md`. The agent updates this file at the start and end of each daily chat session.
+
+## Current Position
+
+- **Program start date:** 2026-11-22
+- **Inner-development month:** Month 1 — Bhagavad Gita
+- **Month started on:** 2026-11-22
+- **Career phase:** Phase 1 — So Good They Can’t Ignore You (starts with the skill inventory)
+- **Technical target:** Not yet defined (complete "Personalize the Technical Path" in the guide)
+- **Current exercise focus:** Month 1, Exercise 2 — define intention and standard of effort before an important task (Exercise 1 done on Day 1)
+- **Next reading:** Day 2 — Bhagavad Gita, Chapter 2 (start)
+- **Last updated:** 2026-11-22 20:58 IST
+
+## Technical Profile (fill in)
+
+- Current role and responsibilities:
+- Experience level:
+- Target role and industry:
+- Technical domain and preferred stack:
+- Strongest and weakest skills:
+- Weekly study time:
+- Six-to-twelve-month goal:
+- Priority (promotion / interviews / certification / freelancing / product):
+
+## Session Log
+
+<!--
+Entry template (copy for each new session):
+
+### YYYY-MM-DD (Day N) — Weekday
+- **Start:** HH:MM IST | **End:** HH:MM IST
+- **Month / Book:** 
+- **Read today:** 
+- **Idea:** 
+- **Evidence:** 
+- **Application:** 
+- **Question:** 
+- **Exercise status:** 
+- **Career / technical output:** 
+- **Tomorrow's intention:** 
+-->
+
+### 2026-11-22 (Day 1) — Sunday
+- **Start:** 20:38 IST | **End:** 20:58 IST
+- **Month / Book:** Month 1 — Bhagavad Gita
+- **Read today:** Bhagavad Gita, Chapter 1 — Arjuna's dilemma (no book on hand; used agent's paraphrased summary; read the actual text later)
+- **Idea:** Arjuna put down his bow because fighting meant losing family and everything he held dear; fear of loss drove the freeze.
+- **Evidence:** Chapter 1 — he drops the bow and sits down after seeing his relatives on the opposite side.
+- **Application:** Froze completely after a breakup, even though he knew the relationship was not good for him.
+- **Question:** Why can we freeze over something we know, intellectually, is right to let go of? (to explore Day 2)
+- **Exercise status:** Month 1, Exercise 1 done (breakup). In control: choosing to end the relationship despite being able to continue, acting on gut feeling. Not in control: the feeling of missing the person and not knowing how to respond. Insight: separate the feeling (not controllable) from the response (controllable).
+- **Career / technical output:** Guide and daily-session system set up
+- **Tomorrow's intention:** Start Chapter 2 (Krishna's reply). Notice the difference between a feeling and a response. Reflect: when I miss someone or something, what is my usual first response?
+
+## Monthly Reviews
+
+<!-- Record the scorecard (0–10) and key takeaways at the end of each month. -->
+
+| Month | Book | Reading (0–2) | Reflection (0–2) | Practice (0–2) | Career (0–2) | Technical (0–2) | Total | Stop / Continue / Change |
+|---|---|---|---|---|---|---|---|---|
