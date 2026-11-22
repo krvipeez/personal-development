@@ -31,6 +31,12 @@ This project is Kumar Viplav's personal-development workspace. The base context 
 1. Update that day's entry in `docs/progress-log.md`: end time, what was read, Idea/Evidence/Application/Question notes, exercise status, career/technical output, and one intention for tomorrow.
 2. Update "Current Position" if the book, phase, or week changed.
 3. At month end, run the Monthly Progress Review and scorecard from the guide, and record the score in the "Monthly Reviews" section before advancing.
+4. Commit and push the session result without asking again (standing permission from Kumar):
+   - Stage only `docs/` and `.cursor/` changes (`git add docs .cursor`).
+   - Commit with a message like `Session YYYY-MM-DD (Day N): <book/chapter> - <short summary>`.
+   - Run `git push` to `origin main`.
+   - Never force-push or rewrite history. If the push fails, report the error and leave the commit in place.
+   - Tell Kumar the commit hash and that it was pushed.
 
 ## Tone
 
