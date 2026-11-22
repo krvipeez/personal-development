@@ -58,6 +58,8 @@ Entry template (copy for each new session):
 - **Question:** Why can we freeze over something we know, intellectually, is right to let go of? (to explore Day 2)
 - **Exercise status:** Month 1, Exercise 1 done (breakup). In control: choosing to end the relationship despite being able to continue, acting on gut feeling. Not in control: the feeling of missing the person and not knowing how to respond. Insight: separate the feeling (not controllable) from the response (controllable).
 - **Career / technical output:** Guide and daily-session system set up
+- **Day update (evening):** Invited a friend for lunch and cooked for them; the chicken did not turn out well. Went to the barber for a haircut and beard trim; plans to repeat this every 20 days to keep up his appearance.
+- **Gita link:** The lunch is a controllable action (inviting, cooking with care) versus an outcome not fully controlled (how the chicken tasted). The barber routine is a process commitment (every 20 days) rather than an outcome goal.
 - **Tomorrow's intention:** Start Chapter 2 (Krishna's reply). Notice the difference between a feeling and a response. Reflect: when I miss someone or something, what is my usual first response?
 
 ## Monthly Reviews
