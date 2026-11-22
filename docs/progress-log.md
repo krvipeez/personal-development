@@ -13,7 +13,7 @@ Companion to `docs/personal-growth-reading-guide.md`. The agent updates this fil
 - **This week's study focus:** Interview on Friday 2026-11-27 (role and format to be confirmed). Interview prep takes priority; AI topics wait until after the interview.
 - **Current exercise focus:** Month 1, Exercise 2 — define intention and standard of effort before an important task (Exercise 1 done on Day 1)
 - **Next reading:** Day 2 — Bhagavad Gita, Chapter 2 (start)
-- **Last updated:** 2026-11-22 20:58 IST
+- **Last updated:** 2026-11-22 21:17 IST
 
 ## Daily Schedule
 
@@ -51,7 +51,7 @@ Entry template (copy for each new session):
 -->
 
 ### 2026-11-22 (Day 1) — Sunday
-- **Start:** 20:38 IST | **End:** 20:58 IST
+- **Start:** 20:38 IST | **End:** 21:17 IST
 - **Month / Book:** Month 1 — Bhagavad Gita
 - **Read today:** Bhagavad Gita, Chapter 1 — Arjuna's dilemma (no book on hand; used agent's paraphrased summary; read the actual text later)
 - **Idea:** Arjuna put down his bow because fighting meant losing family and everything he held dear; fear of loss drove the freeze.
@@ -63,7 +63,11 @@ Entry template (copy for each new session):
 - **Day update (evening):** Invited a friend for lunch and cooked for them; the chicken did not turn out well. Went to the barber for a haircut and beard trim; plans to repeat this every 20 days to keep up his appearance.
 - **Missed plans:** Had planned swimming, studying AI topics, and interview preparation; none got done. Feeling guilty. Reframe: the day was spent on hosting and grooming; the plan was too large for one day. Next step is a smaller plan (see Tomorrow's intention).
 - **Gita link:** The lunch is a controllable action (inviting, cooking with care) versus an outcome not fully controlled (how the chicken tasted). The barber routine is a process commitment (every 20 days) rather than an outcome goal.
-- **Tomorrow's intention:** Start Chapter 2 (Krishna's reply). Notice the difference between a feeling and a response. Reflect: when I miss someone or something, what is my usual first response?
+- **Procrastination:** Admitted to procrastinating on study tonight. Interview is on Friday 2026-11-27, so interview prep is this week's study focus (role and format still to be shared).
+- **Tomorrow's intention (Day 2, Mon 2026-11-23):**
+  1. Reading: start Chapter 2 (Krishna's reply). Notice the difference between a feeling and a response.
+  2. Study: one 30-minute interview-prep block at a fixed time. First step: write down the role, the interview format, and the likely topics.
+  3. Reflect: when I miss someone or something, what is my usual first response?
 
 ## Monthly Reviews
 
