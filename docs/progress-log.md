@@ -13,6 +13,12 @@ Companion to `docs/personal-growth-reading-guide.md`. The agent updates this fil
 - **Next reading:** Day 2 — Bhagavad Gita, Chapter 2 (start)
 - **Last updated:** 2026-11-22 20:58 IST
 
+## Daily Schedule
+
+- **Morning (15–20 min):** Read the day's portion and set one intention. Time: to be confirmed.
+- **Evening (10–15 min, 30–60 min before bed):** Share how the day went, what you did, and your Idea / Evidence / Application / Question. Time: to be confirmed.
+- Fallback: a single evening session of about 25–30 minutes (read, then reflect).
+
 ## Technical Profile (fill in)
 
 - Current role and responsibilities:
