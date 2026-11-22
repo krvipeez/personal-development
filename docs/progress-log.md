@@ -9,6 +9,7 @@ Companion to `docs/personal-growth-reading-guide.md`. The agent updates this fil
 - **Month started on:** 2026-11-22
 - **Career phase:** Phase 1 — So Good They Can’t Ignore You (starts with the skill inventory)
 - **Technical target:** Not yet defined (complete "Personalize the Technical Path" in the guide)
+- **Main habit priority:** Fix study habits (fitness routine is already fixed). Candidate topics: AI topics and interview preparation. Start with one small daily study block.
 - **Current exercise focus:** Month 1, Exercise 2 — define intention and standard of effort before an important task (Exercise 1 done on Day 1)
 - **Next reading:** Day 2 — Bhagavad Gita, Chapter 2 (start)
 - **Last updated:** 2026-11-22 20:58 IST
